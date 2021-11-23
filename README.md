@@ -3,7 +3,7 @@
 
 ## Software Engineer 
 location: Kyiv, Ukraine <br />
-gmail: artem.artem.melin.melin@gmail.com
+gmail: artem.melinevskiy21@gmail.com
 
 ### Languages and Tools:
 
