@@ -1,8 +1,4 @@
 # Melinevskiy Artem
-My CV - https://drive.google.com/file/d/1ggG5MkRGD5jBPfYMZmshF-neyrLocyQQ/view?usp=sharing
-
-
-
 ## Software Engineer 
 location: Kyiv, Ukraine <br />
 gmail: artem.artem.melin.melin@gmail.com
