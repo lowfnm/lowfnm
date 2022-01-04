@@ -1,6 +1,3 @@
-# Melinevskiy Artem
-
-
 ## Software Engineer 
 location: Kyiv, Ukraine <br />
 gmail: artem.melinevskiy21@gmail.com
