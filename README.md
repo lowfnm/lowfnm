@@ -1,4 +1,4 @@
-## Software Engineer 
+## Senior Software Engineer 
 location: Kyiv, Ukraine <br />
 gmail: artem.melinevskiy21@gmail.com <br />
 
