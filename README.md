@@ -15,6 +15,7 @@ Hello there! 👋 I'm a seasoned web and mobile developer with over 5 years of h
 ## My Web & Mobile Development Stack
 
 🔹 **Frontend**: React Native, React.js, Redux, Redux-Thunk, Redux-Saga, Material UI, React Bootstrap.
+
 🔹 **TypeScript**: I work with TypeScript, Next.js, ES2015+, REST APIs, and GraphQL for efficient and type-safe development.
 🔹 **Mobile Platforms**: I'm familiar with Expo, Google Play, and App Store deployments.
 🔹 **HTML/CSS**: Proficient in HTML5, SASS, SCSS, AJAX, Bootstrap, and TailwindCSS.
