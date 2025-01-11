@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there! 👋 I'm a seasoned web and mobile developer with over 5 years of hands-on experience. I specialize in building top-notch applications and delivering high-quality solutions. This README file will give you a brief overview of my skills, expertise, and recent projects. Feel free to explore my work, and let's discuss how I can add value to your project!
+Hello there! 👋 I'm a seasoned web and mobile developer with over 7 years of hands-on experience. I specialize in building top-notch applications and delivering high-quality solutions. This README file will give you a brief overview of my skills, expertise, and recent projects. Feel free to explore my work, and let's discuss how I can add value to your project!
 
 ## How I Can Assist You
 
